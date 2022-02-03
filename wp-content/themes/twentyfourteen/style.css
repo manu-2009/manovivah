@@ -1123,7 +1123,7 @@ span + .edit-link:before,
  */
 
 .post-thumbnail {
-	background: #b2b2b2 url(https://www.manu-2009.github.io/manovivah/wp-content/themes/twentyfourteen/images/pattern-light.svg) repeat fixed;
+	background: #b2b2b2 url(https://manu-2009.github.io/manovivah/wp-content/themes/twentyfourteen/images/pattern-light.svg) repeat fixed;
 	display: block;
 	position: relative;
 	width: 100%;
@@ -2994,7 +2994,7 @@ a.post-thumbnail:hover {
  */
 
 .featured-content {
-	background: #000 url(https://www.manu-2009.github.io/manovivah/wp-content/themes/twentyfourteen/images/pattern-dark.svg) repeat fixed;
+	background: #000 url(https://manu-2009.github.io/manovivah/wp-content/themes/twentyfourteen/images/pattern-dark.svg) repeat fixed;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing:    border-box;
 	box-sizing:         border-box;
